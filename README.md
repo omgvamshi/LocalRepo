@@ -1,2 +1,2 @@
-#seond repository
-#this is my localRepo
+# Second repository
+# This is my localRepo
